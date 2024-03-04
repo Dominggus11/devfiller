@@ -1,0 +1,11 @@
+html, body {
+    height: 100%;
+    }
+
+    body {
+        background-image: url('/Image/login/bg-login.jpg'); /* Path ke gambar latar belakang */
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    
